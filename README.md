@@ -1,4 +1,6 @@
 # project-demo
-This is my project
+This is My Project
 <br>
-Author name ~Adnan 
+Author name ~Adnan Ahmad~
+<br>
+Interest in Coding
