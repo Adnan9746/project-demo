@@ -1,3 +1,3 @@
 # project-demo
 This is my project
-Author name ~Adnan Ahmad
+Author name ~Adnan
